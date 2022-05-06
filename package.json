@@ -5,6 +5,7 @@
   "author": "Discourse",
   "license": "MIT",
   "devDependencies": {
-    "eslint-config-discourse": "^3.1.0"
+    "eslint-config-discourse": "^3.1.0",
+    "bitcoin": "^3.0.1"
   }
 }
